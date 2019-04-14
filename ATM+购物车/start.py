@@ -1,0 +1,13 @@
+# Author:ZhaoKang
+# import os
+# import sys
+from core import src
+
+# path = os.path.dirname(__file__)
+# sys.path.append(path)
+
+
+if __name__ == '__main__':
+    src.run()
+
+
